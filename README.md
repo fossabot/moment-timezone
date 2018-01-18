@@ -1,6 +1,7 @@
 # [Moment Timezone](http://momentjs.com/timezone)
 
 [![Join the chat at https://gitter.im/moment/moment-timezone](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/moment/moment-timezone?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fmoment-timezone.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fmoment-timezone?ref=badge_shield)
 
 [![NPM version][npm-version-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-url] [![MIT License][license-image]][license-url] [![Build Status][travis-image]][travis-url]
 
@@ -34,3 +35,7 @@ dec.tz('Australia/Sydney').format('ha z');     // 11pm EST
 
 [travis-url]: http://travis-ci.org/moment/moment-timezone
 [travis-image]: http://img.shields.io/travis/moment/moment-timezone/develop.svg?style=flat
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fmoment-timezone.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fmoment-timezone?ref=badge_large)
